@@ -1,0 +1,1 @@
+cmd /k "node main.js&&font-spider index.html"

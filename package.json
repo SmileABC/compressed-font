@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fontmin": "^0.9.8",
+    "fontmin": "^0.9.9",
     "fs": "0.0.1-security",
     "path": "^0.12.7"
   }
